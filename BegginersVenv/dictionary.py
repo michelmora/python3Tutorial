@@ -13,3 +13,8 @@ print(k)
 # To remove a key/value pair use the del keyword
 del k['FR']
 print(k)
+
+# Iterate over a dictionary
+fruitsVegetables = {'apple': 'Canada, USA', 'mango': 'South America, Central', 'potato': 'Mexico, Argentina'}
+for key, items in fruitsVegetables.items():
+    print('The ' + key + ' is from ' + items)

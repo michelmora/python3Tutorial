@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AdvancedPython/.idea/AdvancedPython.iml" filepath="$PROJECT_DIR$/../AdvancedPython/.idea/AdvancedPython.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/BegginersVenv.iml" filepath="$PROJECT_DIR$/.idea/BegginersVenv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Python/Google/CloudVision/.idea/CloudVision.iml" filepath="$PROJECT_DIR$/../../../Python/Google/CloudVision/.idea/CloudVision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Django/ProjectTest/.idea/ProjectTest.iml" filepath="$PROJECT_DIR$/../../../Django/ProjectTest/.idea/ProjectTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Django/Tests/.idea/Tests.iml" filepath="$PROJECT_DIR$/../../../Django/Tests/.idea/Tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Django/untitled/.idea/untitled.iml" filepath="$PROJECT_DIR$/../../../Django/untitled/.idea/untitled.iml" />
     </modules>
   </component>
 </project>

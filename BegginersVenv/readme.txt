@@ -1,3 +1,4 @@
-This is the first line
-This is the second line
-More lines(The #3)
+# python3Tutorial: Playing with python
+=======================
+
+By: [Michel Mora Lozano]
